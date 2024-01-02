@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h2 align="center"><del>Languages and Tools:</del><p>Currently studying:</p></h2>
+<h2 align="center"><del>Languages and Tools:</del><p>I'm studying:</p></h2>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
