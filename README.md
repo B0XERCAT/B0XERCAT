@@ -36,6 +36,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  &nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
@@ -58,23 +62,13 @@
   &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
 
 <h2 align="center">Github Stats:</h2>
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b0xercat&show_icons=true&locale=en&layout=compact" alt="b0xercat" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=b0xercat&show_icons=true&locale=en" alt="b0xercat" />
-  </div>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=b0xercat&show_icons=true&locale=en&layout=compact" alt="b0xercat" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=b0xercat&show_icons=true&locale=en" alt="b0xercat" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b0xercat&" alt="b0xercat" /></p>
-</div>
-
-<h2 align="center">Baekjoon Ranking:</h2>
-<div align="center">
-  <a href="https://solved.ac/seojin3154/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seojin3154" alt="boj"/> 
-  </a>
 </div>
 
